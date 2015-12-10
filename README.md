@@ -39,39 +39,6 @@ MAC
 [heise](http://www.heise.de/netze/tools/whois/)
 
 
-#Videos zum Thema Rechte und Pflichten im Netz
-
-[video2brain michael-rohrlich](https://www.video2brain.com/de/trainer/michael-rohrlich) 
-
-
-#Fotos dieser Seiten dürfen wir herunterladen 
-
-(mit Nennung der Quelle! Vorher Bedingungen überprüfen!)
-
-[commons.wikimedia.org](https://commons.wikimedia.org/wiki/Main_Page)
-
-[t3n.de stockfotos](http://t3n.de/news/stockfotos-kostenlose-qualitative-bilder-539479/)
-
-[morguefile](http://www.morguefile.com/)
-
-[pixabay.com](https://pixabay.com/de/)
-
-[unsplash.com](https://unsplash.com/)
-
-[deathtothestockphoto](http://join.deathtothestockphoto.com/)
-
-[fotolia](https://de.fotolia.com/) (nicht kostenfrei!)
-
-
-#Typo3 Lernvideos
-
-[jweiland video-anleitungen typo3](https://jweiland.net/video-anleitungen/typo3/typo3-62-fuer-redakteure.html) 
-
-
-#Thema „Powermail“
-
-[jweiland.net powermail](https://jweiland.net/video-anleitungen/typo3/interessante-typo3-extensions/powermail.html)
-
 #Bigdump php
 
 [bigdump](http://www.ozerov.de/bigdump/you-need/) 
@@ -85,12 +52,6 @@ MAC
 1. [graphicsmagick](http://sourceforge.net/projects/graphicsmagick/files/) 
 1. [graphicsmagick-binaries](graphicsmagick-binaries) -> neueste Version wählen -> GraphicsMagick-1.3.23-Q16-win64-dll.exe
 
-
-#Blindtext-Generator
-
-[blindtextgenerator](http://www.blindtextgenerator.de/) 
-
-
 #Typo3-Wissen
 
 [typo3 Wissen](http://www.typo3.net/) 
@@ -100,15 +61,21 @@ MAC
 [powermail](https://typo3.org/extensions/repository/view/powermail) 
 
 
-#Fonts
-
-[cufon shoqolate](http://cufon.shoqolate.com/generate/) 
-
 
 #1. Links - Zusatz
 ##Vergleich Wordpress – Typo3
 
 [estrategy-magazin.de typo3-wordpress-vergleich](http://www.estrategy-magazin.de/typo3-wordpress-vergleich.html) 
+
+
+#Typo3 Lernvideos
+
+[jweiland video-anleitungen typo3](https://jweiland.net/video-anleitungen/typo3/typo3-62-fuer-redakteure.html) 
+
+
+#Thema „Powermail“
+
+[jweiland.net powermail](https://jweiland.net/video-anleitungen/typo3/interessante-typo3-extensions/powermail.html)
 
 T#ypo3-Wiki
 
@@ -118,34 +85,6 @@ T#ypo3-Wiki
 #Typo3-Begriffe
 
 [TyposcriptReference](https://docs.typo3.org/typo3cms/TyposcriptReference/) 
-
-
-
-#Nachschlagen: Thema Rechte und Pflichten im Netz
-
-[wikipedia.org Panoramafreiheit](https://de.wikipedia.org/wiki/Panoramafreiheit) 
-
-[www.heise.de EU Urheberrecht Panoramafreiheit Abschotten statt Anpassen ](http://www.heise.de/newsticker/meldung/EU-Urheberrecht-Panoramafreiheit-und-die-digitale-Welt-Abschotten-statt-Anpassen-2747561.html)
-
-[rechtsanwalt-schwenke](http://rechtsanwalt-schwenke.de/blog/)
-
-[nzz.ch/digital youtube uebernimmt anwaltskosten von nutzern](http://www.nzz.ch/digital/youtube-uebernimmt-anwaltskosten-von-nutzern-ld.3139)
-
-[allfacebook.de bgh urteil zum embedding](http://allfacebook.de/fbmarketing/bgh-urteil-zum-embedding-gut-fuer-nutzer-schlecht-fuer-urheber-und-eine-offene-frage)
-
-[e-recht24.de disclaimer](http://www.e-recht24.de/muster-disclaimer.htm)
-
-
-#Barrierefreiheit im Netz
-
-[barrierefreies webdesign richtlinien/](http://www.barrierefreies-webdesign.de/richtlinien/) 
-
-[barrierefreies webdesign](http://www.barrierefreies-webdesign.de/bitv/bitv-2.0.html)
-
-
-#Blindtext- Alternativen
-
-[t3n.de Blindtext](http://t3n.de/news/keine-lust-lorem-ipsum-15-460574/) 
 
 
 #Hilfe-Community bei XAMPP-Fehlern
@@ -182,7 +121,6 @@ T#ypo3-Wiki
 [kostenfreie css editoren](http://t3n.de/news/10-kostenfreie-css-editoren-361956/) 
 
 
-
 #Weitere Fonts
 
 [google webfont](https://www.google.com/fonts)
@@ -196,6 +134,8 @@ T#ypo3-Wiki
 
 #fontconverter 
 
+[cufon shoqolate](http://cufon.shoqolate.com/generate/) 
+
 [fontconverter](http://www.fontconverter.org/)
 
 [fontsquirrel](http://www.fontsquirrel.com/)
@@ -208,6 +148,66 @@ T#ypo3-Wiki
 [fortawesome](http://fortawesome.github.io/Font-Awesome/icons/) 
 
 
+#HTML
+FLEXBOXFROGGY - Learn Flexbox
+
+[flexbox-froggy](http://flexboxfroggy.com/)
+
+
+
+#Blindtext-Generator
+
+[blindtextgenerator](http://www.blindtextgenerator.de/) 
+
+[t3n.de Blindtext](http://t3n.de/news/keine-lust-lorem-ipsum-15-460574/) 
+
+
+#Videos zum Thema Rechte und Pflichten im Netz
+
+[video2brain michael-rohrlich](https://www.video2brain.com/de/trainer/michael-rohrlich) 
+
+
+#Fotos dieser Seiten dürfen wir herunterladen 
+
+(mit Nennung der Quelle! Vorher Bedingungen überprüfen!)
+
+[commons.wikimedia.org](https://commons.wikimedia.org/wiki/Main_Page)
+
+[t3n.de stockfotos](http://t3n.de/news/stockfotos-kostenlose-qualitative-bilder-539479/)
+
+[morguefile](http://www.morguefile.com/)
+
+[pixabay.com](https://pixabay.com/de/)
+
+[unsplash.com](https://unsplash.com/)
+
+[deathtothestockphoto](http://join.deathtothestockphoto.com/)
+
+[fotolia](https://de.fotolia.com/) (nicht kostenfrei!)
+
+
+#Nachschlagen: Thema Rechte und Pflichten im Netz
+
+[wikipedia.org Panoramafreiheit](https://de.wikipedia.org/wiki/Panoramafreiheit) 
+
+[www.heise.de EU Urheberrecht Panoramafreiheit Abschotten statt Anpassen ](http://www.heise.de/newsticker/meldung/EU-Urheberrecht-Panoramafreiheit-und-die-digitale-Welt-Abschotten-statt-Anpassen-2747561.html)
+
+[rechtsanwalt-schwenke](http://rechtsanwalt-schwenke.de/blog/)
+
+[nzz.ch/digital youtube uebernimmt anwaltskosten von nutzern](http://www.nzz.ch/digital/youtube-uebernimmt-anwaltskosten-von-nutzern-ld.3139)
+
+[allfacebook.de bgh urteil zum embedding](http://allfacebook.de/fbmarketing/bgh-urteil-zum-embedding-gut-fuer-nutzer-schlecht-fuer-urheber-und-eine-offene-frage)
+
+[e-recht24.de disclaimer](http://www.e-recht24.de/muster-disclaimer.htm)
+
+
+#Barrierefreiheit im Netz
+
+[barrierefreies webdesign richtlinien/](http://www.barrierefreies-webdesign.de/richtlinien/) 
+
+[barrierefreies webdesign](http://www.barrierefreies-webdesign.de/bitv/bitv-2.0.html)
+
+    
 
 
 
